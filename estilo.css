@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=open+sans:300,400,800');
+
+html, button {
+  font-family:'open sans',sans-serif;
+}
+
+header {
+  background-color: gray;
+  color:white;
+}
+.vermelha{
+  background-color: #CF2227;
+  color:white;
+}
+.branca{
+  color: #CF2227;
+}
+button{
+  color: white;
+  background-color: transparent;
+  font-weight: bold;
+}
+
+h1,p {
+  font-weight: lighter;
+}
+h1{
+  font-size:24px;
+}
+.data{
+  font-size:64px;
+}
+.brasil{
+  font-size: 24px;
+}
+h2{
+ font-size:48px;
+ font-weight: bold;
+}
+header, section,footer{
+ padding: 20px 20px 70px 20px;
+}
+body, p{
+  margin: 0;
+}
+ul{
+  list-style-type:none;
+  padding-left: 0;
+}
+a{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+li{
+  display:inline;
+  padding: 5px;
+}
